@@ -1,0 +1,63 @@
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.exe
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.deps.json
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.runtimeconfig.json
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.dll
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.pdb
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.AssemblyReference.cache
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.GenerateResource.cache
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.AssemblyInfoInputs.cache
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.AssemblyInfo.cs
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.CoreCompileInputs.cache
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.dll
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\refint\brute.dll
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.pdb
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.genruntimeconfig.cache
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\ref\brute.dll
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\NBitcoin.dll
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.CopyComplete
+C:\Users\Papa Hacker\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.Form1.resources
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.AssemblyReference.cache
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.Form1.resources
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.GenerateResource.cache
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.AssemblyInfoInputs.cache
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.AssemblyInfo.cs
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.CoreCompileInputs.cache
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.dll
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\refint\brute.dll
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.pdb
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.exe
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\NBitcoin.dll
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.CopyComplete
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.deps.json
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.runtimeconfig.json
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.dll
+C:\Users\PH\Desktop\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.pdb
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.genruntimeconfig.cache
+C:\Users\PH\Desktop\C# Projects\brute\brute\obj\Debug\net6.0-windows\ref\brute.dll
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.exe
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.deps.json
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.runtimeconfig.json
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.dll
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\brute.pdb
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\NBitcoin.dll
+C:\Users\PH\Documents\C# Projects\brute\brute\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.AssemblyReference.cache
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.Form1.resources
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.GenerateResource.cache
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.AssemblyInfoInputs.cache
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.AssemblyInfo.cs
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.CoreCompileInputs.cache
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.csproj.CopyComplete
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.dll
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\refint\brute.dll
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.pdb
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\brute.genruntimeconfig.cache
+C:\Users\PH\Documents\C# Projects\brute\brute\obj\Debug\net6.0-windows\ref\brute.dll
