@@ -1,4 +1,5 @@
 My Personal Projects
+
 Welcome to my GitHub repository! Here, you'll find a collection of my personal projects that are not proprietary and can be shared publicly. These projects demonstrate my skills and interests in software development, automation, and system optimization.
 
 This repository showcases a selection of projects I've worked on, ranging from automation scripts to database optimization. These examples reflect my expertise in Python programming, Java development, and system integration. Note that some projects are shared for educational purposes and do not include proprietary or client-specific information.
